@@ -1,2 +1,2 @@
-# MERN-UrbanShop-backend
-E-commerce app (MERN Stack)
+# UrbanShop-backend
+E-commerce app backend using NodeJs, ExpressJs, MongoDb
